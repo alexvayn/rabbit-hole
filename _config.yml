@@ -27,9 +27,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-midnight
-#theme: jekyll-theme-slate
-theme: my-material-theme
-gems:
+theme: jekyll-theme-slate
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
