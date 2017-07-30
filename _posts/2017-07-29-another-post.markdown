@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Another Post!"
-date:   2017-07-29 23:40:09 -0400
+date:   2017-07-29 23:15:09 -0400
 categories: jekyll update
 ---
 Another post here. Yeah!
